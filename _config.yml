@@ -1,5 +1,5 @@
 # Basic Information 
-title: Darwin Del Castillo
+title: Darwin Del Castillo, MD
 position: MPH Global Health Student
 affiliation: University of Washington
 email: ddelcast@uw.edu
@@ -20,7 +20,7 @@ twitter: https://twitter.com/justpvalues
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/avatar.png
+avatar: ./assets/img/my-picture.png
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
