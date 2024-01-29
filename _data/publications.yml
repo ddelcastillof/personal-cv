@@ -1,10 +1,12 @@
 main:
-  - title: "[Advances in the investigation of chronic non-communicable diseases in Peru] (Article in Spanish)"
-    authors: <strong>Del Castillo-Fernández D*<strong>, Brañez-Condorena A, Villacorta-Landeo P, Saavedra-Garcia L, Bernabé-Ortiz A, Miranda JJ. (*Corresponding author)
+
+  - title: "Advances in the investigation of chronic non-communicable diseases in Peru [Article in Spanish]"
+    authors: "<strong>Del Castillo-Fernández D*<strong>, Brañez-Condorena A, Villacorta-Landeo P, Saavedra-Garcia L, Bernabé-Ortiz A, Miranda JJ. (*Corresponding author)"
     journal_short: An Fac med
     journal: Anales de la Facultad de Medicina, 2021.
     pdf: https://revistasinvestigacion.unmsm.edu.pe/index.php/anales/article/view/18798/16447
     notes: Special Article
+
 
   - title: "Personality profiles and engagement with the augmented reality game Pokémon GO: a cross-sectional study [version 1; peer review: 1 approved with reservations]."
     authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
