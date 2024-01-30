@@ -40,9 +40,7 @@
       {{ link.others }}
       {% endif %}
     </div>
-  </div>
-</div>
-</li>
+
 
 {% endfor %}
 
