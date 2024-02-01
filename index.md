@@ -15,7 +15,7 @@ I'm an MPH in Global Health student at the University of Washington. Also I'm a 
 ## News
 
 - **[Sep. 2023]** I started my MPH in Global Health at the University of Washington.
-- **[Jun. 2023]** My paper intitled "Effect of preterm birth on growth and blood pressure in adulthood in the Pelotas 1993 cohort" was accepted in the International Journal of Epidemiology
+- **[Jun. 2023]** Our paper intitled "Effect of preterm birth on growth and blood pressure in adulthood in the Pelotas 1993 cohort" was accepted in the International Journal of Epidemiology
 - **[Aug. 2021]** I obtained my medical doctorate at National University of San Marcos.
 - **[Mar. 2019]** I started working at CRONICAS Center of Excellence in Chronic Diseases at the Peruvian University Cayetano Heredia.
 
