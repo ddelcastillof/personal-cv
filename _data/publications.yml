@@ -2,19 +2,24 @@ main:
 
   - title: "Advances in the investigation of chronic non-communicable diseases in Peru [Article in Spanish]"
     authors: "<strong>Del Castillo-Fernández D*<strong>, Brañez-Condorena A, Villacorta-Landeo P, Saavedra-Garcia L, Bernabé-Ortiz A, Miranda JJ. (*Corresponding author)"
-    journal_short: An Fac med
     journal: Anales de la Facultad de Medicina, 2021.
     pdf: https://revistasinvestigacion.unmsm.edu.pe/index.php/anales/article/view/18798/16447
     notes: Special Article
 
-
   - title: "Personality profiles and engagement with the augmented reality game Pokémon GO: a cross-sectional study [version 1; peer review: 1 approved with reservations]."
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    journal_short: CVPR
-    journal: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
+    authors: "Moscoso MG, Villarreal-Zegarra D, <strong>Del Castillo D<strong>, Zavaleta E, Miranda JJ."
+    journal: Wellcome Open Research, 2022.
+    pdf: https://wellcomeopenresearch.s3.eu-west-1.amazonaws.com/manuscripts/20395/c6037fcb-0fc0-43e8-913d-71cdc9bb20c2_18397_-_darwin_del_castillo.pdf
+    notes: Preprint
     image: ./assets/img/teaser_example.png
+
+  - title: "Effect of preterm birth on growth and blood pressure in adulthood in the Pelotas 1993 cohort"
+    authors: "Lapidaire W, Proaño A, Blumenberg C, Loret de Mola C, Delgado CA, <strong>Del Castillo D<strong>, Wehrmeister FC, Gonçalves H, Gilman RH, Oberhelman RA, Lewandowski AJ, Wells JCK, Miranda JJ*"
+    journal: International Journal of Epidemiology, 2023.
+    pdf: https://watermark.silverchair.com/dyad084.pdf
+    notes: Original Article
+
+  - title: "Clustering diseases and people with unsupervised machine learning to study the longitudinal association between multimorbidity and mortality"
+    authors: "COSMOS Study Group. Among Authors: <strong>Del Castillo D<strong>"
+    journal: BMJ Global Health, 2024.
+    notes: Forthcoming
