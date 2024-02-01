@@ -11,7 +11,6 @@ main:
     journal: Wellcome Open Research, 2022.
     pdf: https://wellcomeopenresearch.s3.eu-west-1.amazonaws.com/manuscripts/20395/c6037fcb-0fc0-43e8-913d-71cdc9bb20c2_18397_-_darwin_del_castillo.pdf
     notes: Preprint
-    image: ./assets/img/teaser_example.png
 
   - title: "Effect of preterm birth on growth and blood pressure in adulthood in the Pelotas 1993 cohort"
     authors: "Lapidaire W, Proaño A, Blumenberg C, Loret de Mola C, Delgado CA, <strong>Del Castillo D<strong>, Wehrmeister FC, Gonçalves H, Gilman RH, Oberhelman RA, Lewandowski AJ, Wells JCK, Miranda JJ*"
